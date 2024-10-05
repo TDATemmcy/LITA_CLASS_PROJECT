@@ -24,7 +24,7 @@ The Primary sources of data used are Data sale.csv and other respiratory sites.
     - For Data Visualisation
 - SQL- Structured Query Language for querying data
 - Github for Portfolio Building
-- 
+ 
 
 ### Data Cleaning and Preparation
 ---
