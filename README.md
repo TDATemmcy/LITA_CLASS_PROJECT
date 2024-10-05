@@ -55,3 +55,6 @@ WHERE CONDITION = TRUE
 
 ### Data Visualisation
 
+[table chart 1.docx](https://github.com/user-attachments/files/17267253/table.chart.1.docx)
+
+
